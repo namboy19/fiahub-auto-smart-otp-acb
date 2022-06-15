@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoSmartOtpACB</string>
+    <string name="accessibility_service_description">TODO</string>
+    <string name="accessibility_service_name">AutoSmartOtpACBService</string>
+    <string name="accessibility_service_id">com.fiahub.autosmartotp.acb/.service.AutoClickServiceAcb</string>
+    <string name="bank_package_id">vn.mk.acb.safekey</string>
+
+</resources>
